@@ -1,0 +1,4 @@
+include ':app', ':sdk'
+rootProject.name='sudokuSolver'
+include ':java'
+include ':openCV'
